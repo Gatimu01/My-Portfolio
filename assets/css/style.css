@@ -1895,3 +1895,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     max-height: 180px;
     object-fit: contain; /* or cover */
 }
+
+.service-icon-box ion-icon {
+    font-size: 40px;   /* Increase size */
+    color: #FFEB3B;;    /* Light color for dark background */
+}
